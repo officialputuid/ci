@@ -31,6 +31,12 @@ To utilize the free SSH service, follow these steps:
 
 The free SSH service is implemented using GitHub Actions. The workflow configuration is available in the [ci.yml](https://github.com/officialputuid/ci/actions/workflows/ci.yml) file.
 
+## Testing
+<center>
+<img width="100%" src="https://repository-images.githubusercontent.com/394896477/ea164cf8-3402-48dd-be62-ee0ba5acc53f">
+<img width="100%" src="https://repository-images.githubusercontent.com/394896477/1f30b408-ecbe-4fe5-8440-18c1eb6415d4">
+</center>
+
 ## Disclaimer
 
 Please be aware that the availability of the free SSH service is at the owner's discretion. Ensure you adhere to the project's terms of use and guidelines.
