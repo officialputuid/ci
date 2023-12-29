@@ -33,8 +33,8 @@ The free SSH service is implemented using GitHub Actions. The workflow configura
 
 ## Testing
 <center>
-<img width="100%" src="https://repository-images.githubusercontent.com/394896477/ea164cf8-3402-48dd-be62-ee0ba5acc53f">
-<img width="100%" src="https://repository-images.githubusercontent.com/394896477/1f30b408-ecbe-4fe5-8440-18c1eb6415d4">
+<img width="100%" src="https://i.postimg.cc/T2nqbX3X/test-ssh.png">
+<img width="100%" src="https://i.postimg.cc/SsX1Xzxg/test-ssh2.png">
 </center>
 
 ## Disclaimer
